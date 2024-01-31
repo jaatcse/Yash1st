@@ -74,7 +74,7 @@ void show()
 {
     if (top == -1)
     {
-        printf("\nUnderflow!!");
+        print("\nUnderflow!!");
     }
     else
     {
